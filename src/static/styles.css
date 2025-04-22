@@ -84,6 +84,8 @@ section h3 {
 .activity-card ul li {
   margin-bottom: 5px;
   font-size: 14px;
+  line-height: 1.4;
+  color: #0066cc; /* Set text color to blue */
 }
 
 .form-group {
@@ -147,7 +149,6 @@ button:hover {
 .hidden {
   display: none;
 }
-
 
 footer {
   text-align: center;
